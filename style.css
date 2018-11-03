@@ -80,8 +80,8 @@ body{
 }
 
 .top{
-    margin-top: 7.5vh;
-    font-size: 30px;
+    margin-top: 20vh;
+    font-size: 20px;
     color: white;
     text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
 }
