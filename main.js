@@ -104,4 +104,3 @@ function arrTable() {
 button.addEventListener('click', function (e) {
   start();
 })
-
